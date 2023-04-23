@@ -1,6 +1,6 @@
 const config = {
   development: {
-    backendUrl: "https://threed-clothing.onrender.com/api/v1/dalle",
+    backendUrl: "https://threed-clothing-s65j.onrender.com/api/v1/dalle",
   },
   production: {
     backendUrl: "https://devswag.onrender.com/api/v1/dalle",
