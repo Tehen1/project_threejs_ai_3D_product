@@ -1,10 +1,12 @@
 import type { NextPage } from "next";
 import { memo } from "react";
+import Footer from "./footer";
+import FilteredFormContainer from "./filtered-form-container";
 
 const GroovecalligraphyeuByHtmlt: NextPage = memo(() => {
   return (
-    <div className="relative bg-whitesmoke-200 w-[1024px] h-[3252.55px] text-center text-mini-7 text-white font-open-sans">
-      <div className="absolute w-full top-[221.72px] right-[0px] left-[0px] h-[2544.08px] text-19xl font-indie-flower">
+    <div className="relative bg-whitesmoke-200 w-[1024px] h-[3252.55px] text-center text-19xl text-white font-indie-flower">
+      <div className="absolute w-full top-[221.72px] right-[0px] left-[0px] h-[2544.08px]">
         <div className="absolute w-full top-[0px] right-[0px] left-[0px] overflow-hidden flex flex-row items-start justify-start">
           <div className="w-[1024px] flex flex-row pt-[290px] px-0 pb-[310px] box-border items-start justify-start relative bg-[url(/divgf-herobg@2x.png)] bg-cover bg-no-repeat bg-[top]">
             <div className="my-0 mx-[!important] absolute h-full w-full top-[0%] right-[0%] bottom-[0%] left-[0%] overflow-hidden flex flex-row items-start justify-start bg-[url(/divgf-herobg@2x.png)] bg-cover bg-no-repeat bg-[top] z-[0]">
@@ -276,7 +278,7 @@ const GroovecalligraphyeuByHtmlt: NextPage = memo(() => {
           </div>
         </div>
       </div>
-      <div className="absolute w-full top-[2765.8px] right-[0px] left-[0px] bg-whitesmoke-200 box-border flex flex-col pt-[61.040000915527344px] px-0 pb-[59.99998474121094px] items-center justify-start gap-[84.01px] text-darkslateblue-200 border-t-[1px] border-solid border-darkslateblue-300">
+      <div className="absolute w-full top-[2765.8px] right-[0px] left-[0px] bg-whitesmoke-200 box-border flex flex-col pt-[61.040000915527344px] px-0 pb-[59.99998474121094px] items-center justify-start gap-[84.01px] text-mini-7 text-darkslateblue-200 font-open-sans border-t-[1px] border-solid border-darkslateblue-300">
         <div className="relative w-[798px] h-[72.78px]">
           <div className="absolute top-[4.25px] left-[calc(50%_-_399px)] flex flex-row py-0 pr-[4.9199981689453125px] pl-0 items-start justify-center">
             <div className="relative tracking-[0.63px] leading-[25.9px]">
@@ -407,95 +409,14 @@ const GroovecalligraphyeuByHtmlt: NextPage = memo(() => {
           </div>
         </div>
       </div>
-      <div className="absolute w-full top-[3187.16px] right-[0px] left-[0px] bg-whitesmoke-200 flex flex-row pt-0 pb-[33.59000015258789px] pr-[353.80999755859375px] pl-[353.79998779296875px] box-border items-start justify-center text-left text-mini text-darkslategray font-inter">
-        <div className="flex flex-row pt-[0.20000000298023224px] pb-[0.009999081492424011px] pr-[0.0000152587890625px] pl-0 items-start justify-start gap-[8.39px]">
-          <div className="relative rounded-sm bg-whitesmoke-100 w-[213px] h-[31.59px] max-w-[213px]">
-            <div className="absolute top-[calc(50%_-_2.5px)] right-[10px] w-2 h-[5px] overflow-hidden flex flex-row pt-0 pb-[0.5999999046325684px] pr-[0.9000000953674316px] pl-0 box-border items-start justify-start">
-              <img
-                className="relative w-[7.1px] h-[4.4px]"
-                alt=""
-                src="/vector4.svg"
-              />
-            </div>
-            <div className="absolute w-[calc(100%_-_36px)] top-[calc(50%_-_11.99px)] right-[28px] left-[8px] overflow-hidden flex flex-row pt-0 pb-px pr-[54px] pl-0 box-border items-start justify-start">
-              <div className="relative leading-[22px]">Germany (EUR €)</div>
-            </div>
-          </div>
-          <div className="relative rounded-sm bg-whitesmoke-100 w-[95px] h-[31.59px] max-w-[95px]">
-            <div className="absolute top-[calc(50%_-_2.5px)] right-[10px] w-2 h-[5px] overflow-hidden flex flex-row pt-0 pb-[0.5999999046325684px] pr-[0.9000000953674316px] pl-0 box-border items-start justify-start">
-              <img
-                className="relative w-[7.1px] h-[4.4px]"
-                alt=""
-                src="/vector5.svg"
-              />
-            </div>
-            <div className="absolute w-[calc(100%_-_36px)] top-[calc(50%_-_11.99px)] right-[28px] left-[8px] overflow-hidden flex flex-row pt-0 pb-px pr-2 pl-0 box-border items-start justify-start">
-              <div className="relative leading-[22px]">English</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="absolute w-full top-[80.88px] right-[0px] left-[0px] bg-whitesmoke-200 flex flex-row items-start justify-center text-left text-darkslateblue-200">
-        <div className="relative w-[1024px] h-[140.84px] max-w-[1260px]">
-          <div className="absolute h-[calc(100%_-_94.65px)] w-[calc(100%_-_977.81px)] top-[25.78px] right-[925.31px] bottom-[68.87px] left-[52.5px] flex flex-row pt-[12.59000015258789px] pb-[12.599998474121094px] pr-[12.599998474121094px] pl-[12.59000015258789px] box-border items-center justify-center">
-            <div className="w-[21px] h-[21px] overflow-hidden shrink-0 flex flex-row items-start justify-start">
-              <img
-                className="relative w-[21px] h-[21px] overflow-hidden shrink-0"
-                alt=""
-                src="/iconsearch.svg"
-              />
-            </div>
-          </div>
-          <div className="absolute top-[20px] left-[calc(50%_-_77.87px)] flex flex-row pt-[7.869999885559082px] pb-[7.880000114440918px] pr-[7.880000114440918px] pl-[7.869999885559082px] items-start justify-center">
-            <img
-              className="relative w-[140px] h-[42px] object-cover max-w-[140px]"
-              alt=""
-              src="/official-website-logo-9e4d0912e4674f62840ab0f55a8f8ab4png@2x.png"
-            />
-          </div>
-          <div className="absolute top-[88.76px] left-[194.92px] flex flex-row flex-wrap items-start justify-center">
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[12.989999771118164px] pl-[12.600000381469727px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                Shop
-              </div>
-            </div>
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[12.270000457763672px] pl-[12.59000015258789px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                FAQ's
-              </div>
-            </div>
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[13.079998016357422px] pl-[12.59000015258789px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                Shipping
-              </div>
-            </div>
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[12.299999237060547px] pl-[12.59000015258789px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                Track My Order
-              </div>
-            </div>
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[12.189998626708984px] pl-[12.59000015258789px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                Contact Us
-              </div>
-            </div>
-            <div className="flex flex-row pt-[12.59000015258789px] pb-[12.490001678466797px] pr-[13.770000457763672px] pl-[12.59000015258789px] items-center justify-start">
-              <div className="relative tracking-[0.63px] leading-[18.9px]">
-                Become an Affiliate
-              </div>
-            </div>
-          </div>
-          <div className="absolute w-[calc(100%_-_990.41px)] top-[25.78px] right-[52.5px] left-[937.91px] flex flex-row items-start justify-center">
-            <div className="self-stretch w-[46.19px] overflow-hidden shrink-0 flex flex-row pt-[13.626049995422363px] pb-[13.002482414245605px] pr-[12.481805801391602px] pl-[13.635778427124023px] box-border items-start justify-start">
-              <img
-                className="relative w-[20.07px] h-[19.56px]"
-                alt=""
-                src="/vector6.svg"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
+      <Footer
+        dimensionCode="/vector4.svg"
+        dimensionCodeImageUrl="/vector5.svg"
+      />
+      <FilteredFormContainer
+        dimensionCode="/iconsearch.svg"
+        dimensionText="/vector6.svg"
+      />
       <div className="absolute h-[calc(100%_-_3171.67px)] w-full top-[0.19px] right-[-13.11px] bottom-[3171.48px] left-[13.11px] flex flex-col items-start justify-start text-mini-3 font-kalam">
         <div className="bg-lightsteelblue box-border w-[1024px] flex flex-row pt-[10.5px] px-[52.5px] pb-[11.549999237060547px] items-start justify-start border-b-[1px] border-solid border-gray-400">
           <div className="relative w-[919px] h-[18.39px]">
